@@ -326,7 +326,7 @@ img {
   letter-spacing: -0.6px;
   text-transform: uppercase;
 
-  max-width: 285px;
+  max-width: 265px;
   margin: 0 auto;
 
   margin-bottom: 20px;
@@ -448,6 +448,11 @@ img {
 
 .whynow {
   background: #090909;
+
+  background-image: url(../img/whynow/ellipse-01.svg),
+    url(../img/whynow/ellipse-02.svg);
+  background-repeat: no-repeat;
+  background-position: left 0 top 0, right 0 bottom 0;
 
   max-width: 430px;
   margin: 0 auto;
