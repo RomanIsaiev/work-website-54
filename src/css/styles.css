@@ -869,6 +869,10 @@ img {
   text-decoration-color: #ce5aea;
 }
 
+.kwiga-widget-container {
+  position: relative;
+}
+
 /* footer */
 
 .footer {
