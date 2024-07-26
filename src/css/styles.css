@@ -99,6 +99,12 @@ img {
   }
 }
 
+.start-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .course-tag {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
